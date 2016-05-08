@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "beyondDr",
+    "style": "less",
+    "postcss": false
+  }
+}
