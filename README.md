@@ -58,7 +58,7 @@ $ npm run dist
 $ npm run lint
 ```
 
-- 如果想使用karma进行测试,执行
+- 如果想使用karma进行测试,执行下列命令
 ```
 $ npm run test
 ```
